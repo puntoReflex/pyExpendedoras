@@ -1,3 +1,5 @@
+<img src="images/pyExpendedoras.png" width="40%" align="right"/>
+
 # pyExpendedoras
 
 ## Contexto
